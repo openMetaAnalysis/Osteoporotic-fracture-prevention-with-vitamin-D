@@ -17,6 +17,5 @@ References:
 
 ### Randomized controlled trials
 #### New trial(s) *not* included in the most recent review above
-1. 1: Neelemaat F, Lips P, Bosmans JE, Thijs A, Seidell JC, van Bokhorst-de van der 
-Schueren MA. Short-term oral nutritional intervention with protein and vitamin D decreases falls in malnourished older adults. J Am Geriatr Soc. 2012 Apr;60(4):691-9. doi: [10.1111/j.1532-5415.2011.03888.x](http://dx.doi.org/10.1111/j.1532-5415.2011.03888.x). PMID: [22316322](http://pubmed.gov/22316322).
+1. Neelemaat F, Lips P, Bosmans JE, Thijs A, Seidell JC, van Bokhorst-de van der Schueren MA. Short-term oral nutritional intervention with protein and vitamin D decreases falls in malnourished older adults. J Am Geriatr Soc. 2012 Apr;60(4):691-9. doi: [10.1111/j.1532-5415.2011.03888.x](http://dx.doi.org/10.1111/j.1532-5415.2011.03888.x). PMID: [22316322](http://pubmed.gov/22316322).
 
