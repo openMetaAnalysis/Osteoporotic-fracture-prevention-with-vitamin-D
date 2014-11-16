@@ -7,7 +7,7 @@ Vitamin D for fracture prevention
 
 **Results:**  All trials subgrouped by effective or inneffective dose of Vitamin D. 
 
-![Forest plot](https://raw.github.com/openMetaAnalysis/Vitamin-D-for-fracture-prevention/master/forest%20plots/all%20trials.png "Principle results")
+![Forest plot](https://raw.github.com/openMetaAnalysis/Vitamin-D-for-fracture-prevention/master/forest%20plots/all%20trials.png "Primary outcome")
 
 References:
 ----------------------------------
