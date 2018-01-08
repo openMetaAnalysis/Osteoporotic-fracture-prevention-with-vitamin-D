@@ -19,8 +19,10 @@ The forest plot for the primary outcome is below. Additional [forest plots](../.
 References:
 ----------------------------------
 ### Systematic review(s)
-####Most recent review at time of last revision of this repository
-1. Chung M, Lee J, Terasawa T, Lau J, Trikalinos TA. Vitamin D with or without calcium supplementation for prevention of cancer and fractures: an updated meta-analysis for the U.S. Preventive Services Task Force. Ann Intern Med. 2011 Dec 20;155(12):827-38. doi: [10.7326/0003-4819-155-12-201112200-00005](http://dx.doi.org/10.7326/0003-4819-155-12-201112200-00005). PMID: [22184690](http://pubmed.gov/22184690).
+#### Most recent review at time of last revision of this repository
+1. Zhao JG, Zeng XT, Wang J, Liu L. Association Between Calcium or Vitamin D Supplementation and Fracture Incidence in Community-Dwelling Older Adults: A Systematic Review and Meta-analysis. JAMA. 2017 Dec 26;318(24):2466-2482. doi:
+[10.1001/jama.2017](http://dx.doi.org/10.1001/jama.2017).19344. PMID: [29279934](http://pubmed.gov/29279934)
+2. Chung M, Lee J, Terasawa T, Lau J, Trikalinos TA. Vitamin D with or without calcium supplementation for prevention of cancer and fractures: an updated meta-analysis for the U.S. Preventive Services Task Force. Ann Intern Med. 2011 Dec 20;155(12):827-38. doi: [10.7326/0003-4819-155-12-201112200-00005](http://dx.doi.org/10.7326/0003-4819-155-12-201112200-00005). PMID: [22184690](http://pubmed.gov/22184690).
 
 ### Randomized controlled trials
 #### New trial(s) *not* included in the most recent review above
