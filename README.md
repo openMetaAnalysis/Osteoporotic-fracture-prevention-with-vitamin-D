@@ -2,7 +2,7 @@ Osteoporotic fracture prevention with vitamin D
 =================================
 A data-only living systematic review
 
-**Clinical summary:** This meta-analysis suggests that vitamin D supplementation is associated with a reduction in fractures when given in effective doses (see Figure). Effective is defined as a dose that raises the serum level of vitamin D by 20 nmol/L (8 ng/mL) and achieves a final level of at least 60 nmol/L (24 ng/mL). See the [clinical summary](https://github.com/openMetaAnalysis/Vitamin-D-for-fracture-prevention/wiki/Clinical-summary) for more detail.
+**Clinical summary:** This meta-analysis suggests that vitamin D supplementation is associated with a reduction in fractures when given in effective doses (see Figure). Effective is defined as a dose that raises the serum level of vitamin D by 20 nmol/L (8 ng/mL) and achieves a final level of at least 60 nmol/L (24 ng/mL). Heterogeneity of results as measured by I2 in this subgroup '[might not be important](http://handbook-5-1.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm)' at 30%. This review updates a  previously published meta-analysis.
 
 * [Reconciliation of conclusions with prior meta-analyses](files/reconciliation-tables/Reconciliation%20of%20conclusions.pdf) (under construction)
 * [Keep current with this topic](files/searching/Keep-up.md) (not available)
