@@ -43,8 +43,8 @@ requirements for fracture prevention. N Engl J Med. 2012 Jul 5;367(1):40-9. doi:
 #### New trial(s) *not* included in the most recent review above
 1. Neelemaat F, Lips P, Bosmans JE, Thijs A, Seidell JC, van Bokhorst-de van der Schueren MA. Short-term oral nutritional intervention with protein and vitamin D decreases falls in malnourished older adults. J Am Geriatr Soc. 2012 Apr;60(4):691-9. doi: [10.1111/j.1532-5415.2011.03888.x](http://dx.doi.org/10.1111/j.1532-5415.2011.03888.x). PMID: [22316322](http://pubmed.gov/22316322).
 
-#### Trial(s) undergoing review
-None
+#### Studie(s) undergoing review
+1. Yao P, Bennett D, Mafham M, Lin X, Chen Z, Armitage J, Clarke R. Vitamin D and Calcium for the Prevention of Fracture: A Systematic Review and Meta-analysis. JAMA Netw Open. 2019 Dec 2;2(12):e1917789. doi: 10.1001/jamanetworkopen.2019.17789. PMID: [31860103](http://pubmed.gov/31860103); PMCID: PMC6991219.
 
 #### Trial(s) excluded - selected list of important trial(s)
 
